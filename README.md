@@ -1,4 +1,4 @@
-## 52 SVG playingcards in **one** 16 KB² Custom Element: `<playing-card>`
+## 52 SVG playingcards in **one** 14 KB² Custom Element: `<playing-card>`
 
 #### No Frameworks&nbsp;&nbsp; No Dependencies&nbsp;&nbsp; No External SVG files!&nbsp;&nbsp; All SVG is created by the Custom Element
 
@@ -21,7 +21,7 @@
 
 - 52 customized Built-In IMG elements : `<img is=queen-of-hearts>` (not supported in Safari; no longer created since 2024)
 
-- Total **GZip** file size: (under) **16 KB² creating 52 playingcards:**
+- Total **GZip** file size: (under) **14 KB² creating 52 playingcards:**
 
 ![](https://i.imgur.com/Wy7jqLR.jpg)
 
@@ -47,7 +47,7 @@ Playingcard(t)s are a good subject to demonstrate the power of a Custom Element
 - (loads of) attributes for configuration
 - 52 SVG playingcards
 - **no** external SVG images
-- All in 16 KB² because my first computer had 16 **Kilo**Bytes memory
+- All in less than 16 KB² because my first computer had 16 **Kilo**Bytes memory
 
 Feel free to PEEK around, and if you want to POKE, submit an [issue](https://github.com/cardmeister/cardmeister.github.io/issues/new).
 
